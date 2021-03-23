@@ -74,3 +74,10 @@
 
    Команда _cp -r ~/boost_1_69_0/tools/build/boost_output ~/boost-libs_
    
+1. Подсчитайте сколько занимает дискового пространства каждый файл в этой директории.
+
+   ![du](https://github.com/Dan10022002/tp_lab01/blob/main/du.png)
+   
+1. Найдите топ10 самых "тяжёлых".
+
+   ![top](https://github.com/Dan10022002/tp_lab01/blob/main/top.png)
