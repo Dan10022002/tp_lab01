@@ -33,3 +33,35 @@
    ![test](https://github.com/Dan10022002/tp_lab01/blob/main/test.png)
 
 ## Homework
+
+1. Скачайте библиотеку boost с помощью утилиты wget. Адрес для скачивания https://sourceforge.net/projects/boost/files/boost/1.69.0/boost_1_69_0.tar.gz
+
+   ![boost](https://github.com/Dan10022002/tp_lab01/blob/main/boost.png)
+   
+1. Разархивируйте скаченный файл в директорию ~/boost_1_69_0
+
+   Команда _tar -xf boost_1_69_0.tar.gz_
+   
+1. Подсчитайте количество файлов в директории ~/boost_1_69_0 не включая вложенные директории.
+
+   ![tree1](https://github.com/Dan10022002/tp_lab01/blob/main/tree1.png)
+   
+1. Подсчитайте количество файлов в директории ~/boost_1_69_0 включая вложенные директории.
+
+   ![tree2](https://github.com/Dan10022002/tp_lab01/blob/main/tree2.png)
+   
+1. Подсчитайте количество заголовочных файлов, файлов с расширением .cpp.
+
+   ![h](https://github.com/Dan10022002/tp_lab01/blob/main/h.png)
+   
+   ![cpp](https://github.com/Dan10022002/tp_lab01/blob/main/cpp.png)
+   
+1. Найдите полный пусть до файла any.hpp внутри библиотеки boost.
+
+   ![any](https://github.com/Dan10022002/tp_lab01/blob/main/any.png)
+   
+1. Выведите в консоль все файлы, где упоминается последовательность boost::asio.
+
+   Команда _grep -rnw -e "boost::asio_
+
+   ![asio](https://github.com/Dan10022002/tp_lab01/blob/main/asio.png)
