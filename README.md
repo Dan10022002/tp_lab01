@@ -31,3 +31,5 @@
    ![work](https://github.com/Dan10022002/tp_lab01/blob/main/work.png)
 
    ![test](https://github.com/Dan10022002/tp_lab01/blob/main/test.png)
+
+## Homework
