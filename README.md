@@ -65,3 +65,12 @@
    Команда _grep -rnw -e "boost::asio_
 
    ![asio](https://github.com/Dan10022002/tp_lab01/blob/main/asio.png)
+
+1. Скомпилирутйе boost.
+
+   ![boost](https://github.com/Dan10022002/tp_lab01/blob/main/boost.png)
+   
+1. Перенесите все скомпилированные на предыдущем шаге статические библиотеки в директорию ~/boost-libs.
+
+   Команда _cp -r ~/boost_1_69_0/tools/build/boost_output ~/boost-libs_
+   
