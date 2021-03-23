@@ -68,7 +68,7 @@
 
 1. Скомпилирутйе boost.
 
-   ![boost](https://github.com/Dan10022002/tp_lab01/blob/main/boost.png)
+   ![build](https://github.com/Dan10022002/tp_lab01/blob/main/build.png)
    
 1. Перенесите все скомпилированные на предыдущем шаге статические библиотеки в директорию ~/boost-libs.
 
